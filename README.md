@@ -27,8 +27,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shruthireddy-1505/april_26/tree/master/0023-merge-k-sorted-lists) |
+| [2974-minimum-number-game](https://github.com/shruthireddy-1505/april_26/tree/master/2974-minimum-number-game) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shruthireddy-1505/april_26/tree/master/0023-merge-k-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/shruthireddy-1505/april_26/tree/master/2974-minimum-number-game) |
+## Sorting
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/shruthireddy-1505/april_26/tree/master/2974-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/shruthireddy-1505/april_26/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
