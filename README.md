@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shruthireddy-1505/april_26/tree/master/0005-longest-palindromic-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/shruthireddy-1505/april_26/tree/master/0142-linked-list-cycle-ii) |
 ## Divide and Conquer
 |  |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/shruthireddy-1505/april_26/tree/master/2974-minimum-number-game) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shruthireddy-1505/april_26/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shruthireddy-1505/april_26/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
