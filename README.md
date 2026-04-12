@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/shruthireddy-1505/april_26/tree/master/0142-linked-list-cycle-ii) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/shruthireddy-1505/april_26/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Linked List
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shruthireddy-1505/april_26/tree/master/0005-longest-palindromic-substring) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/shruthireddy-1505/april_26/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
 | ------- |
