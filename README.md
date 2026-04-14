@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/shruthireddy-1505/april_26/tree/master/0142-linked-list-cycle-ii) |
+| [0645-set-mismatch](https://github.com/shruthireddy-1505/april_26/tree/master/0645-set-mismatch) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shruthireddy-1505/april_26/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Linked List
 |  |
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/shruthireddy-1505/april_26/tree/master/0645-set-mismatch) |
 | [2974-minimum-number-game](https://github.com/shruthireddy-1505/april_26/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/shruthireddy-1505/april_26/tree/master/0645-set-mismatch) |
 | [2974-minimum-number-game](https://github.com/shruthireddy-1505/april_26/tree/master/2974-minimum-number-game) |
 ## Simulation
 |  |
@@ -55,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shruthireddy-1505/april_26/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/shruthireddy-1505/april_26/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
