@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/shruthireddy-1505/april_26/tree/master/0142-linked-list-cycle-ii) |
 | [0645-set-mismatch](https://github.com/shruthireddy-1505/april_26/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shruthireddy-1505/april_26/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shruthireddy-1505/april_26/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Linked List
 |  |
@@ -41,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/shruthireddy-1505/april_26/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shruthireddy-1505/april_26/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2974-minimum-number-game](https://github.com/shruthireddy-1505/april_26/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/shruthireddy-1505/april_26/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shruthireddy-1505/april_26/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2974-minimum-number-game](https://github.com/shruthireddy-1505/april_26/tree/master/2974-minimum-number-game) |
 ## Simulation
 |  |
@@ -64,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/shruthireddy-1505/april_26/tree/master/0645-set-mismatch) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shruthireddy-1505/april_26/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
