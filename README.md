@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/shruthireddy-1505/april_26/tree/master/0142-linked-list-cycle-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shruthireddy-1505/april_26/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/shruthireddy-1505/april_26/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shruthireddy-1505/april_26/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shruthireddy-1505/april_26/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shruthireddy-1505/april_26/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/shruthireddy-1505/april_26/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shruthireddy-1505/april_26/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2974-minimum-number-game](https://github.com/shruthireddy-1505/april_26/tree/master/2974-minimum-number-game) |
