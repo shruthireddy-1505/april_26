@@ -80,11 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shruthireddy-1505/april_26/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shruthireddy-1505/april_26/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/shruthireddy-1505/april_26/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shruthireddy-1505/april_26/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/shruthireddy-1505/april_26/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
